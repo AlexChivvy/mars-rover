@@ -175,7 +175,8 @@ function addToCompleteTravelLog(rover){
 // ======================
 
 // Insert the functions turnLeft, turnRight, and moveForward as you like!
-giveCommand('lfrrfrfbz');
+
+giveCommand('lfrrfrfbbz');
 
 //
 
